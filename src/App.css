@@ -1,0 +1,50 @@
+.App {
+  font-family: 'Segoe UI', sans-serif;
+  padding: 20px;
+  text-align: center;
+}
+
+.controls {
+  margin: 1em 0;
+}
+
+input {
+  margin: 0 10px;
+  padding: 5px;
+  width: 50px;
+}
+
+button {
+  margin: 0 5px;
+  padding: 8px 16px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.block-container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  height: 200px;
+  margin: 30px 0;
+  gap: 5px;
+}
+
+.block {
+  width: 30px;
+  text-align: center;
+  color: white;
+  border-radius: 5px 5px 0 0;
+  transition: all 0.4s ease;
+}
+
+.best {
+  border: 3px solid gold;
+  box-shadow: 0 0 8px gold;
+}
+
+.explanation {
+  margin-top: 20px;
+  font-size: 1.2rem;
+  color: #333;
+}
