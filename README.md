@@ -75,7 +75,7 @@ Observations:
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/PurvalBhude/AI-Project---Model-Based-gradient-search-for-permutation-problem](https://github.com/PurvalBhude/AI-Project---Model-Based-gradient-search-for-permutation-problem)
+    git clone https://github.com/PurvalBhude/AI-Project---Model-Based-gradient-search-for-permutation-problem
     ```
 2.  **Navigate to the project directory**
     ```bash
